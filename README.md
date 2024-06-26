@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @feroz-khann
+- 👋 Hi, I’m @Feroz khan
 - 👀 I’m interested in Java programming and gaming.
 - 🌱 I’m currently learning advanced Java techniques.
 - 💞️ I want to collaborate on exciting Java projects.
