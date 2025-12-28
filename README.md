@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @Feroz khan
-- 👀 I’m interested in Java programming and gaming.
-- 🌱 I’m currently learning advanced Java techniques.
-- 💞️ I want to collaborate on exciting Java projects.
-- ⚡ Fun fact: I can code for hours and still find time to level up in my favourite games!
